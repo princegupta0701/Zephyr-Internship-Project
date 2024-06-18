@@ -120,51 +120,51 @@
 
 ![newQuestion](https://github.com/princegupta0701/Online-Examination-System-MERN-Stack/assets/156581169/b12b8aac-c337-4743-9b41-056eb3f67a3b)
 
-### Add Exam’s Questionnaire: This module helps the examiner in creating questions for a given exam. The questions are based on Multiple Choice Questions. The examiner can also edit, update, and delete the questions. The Examiner can also add the weightage for every question and also upload any image of the question for Diagram Based Questions.
+- **Add Exam’s Questionnaire:** This module helps the examiner in creating questions for a given exam. The questions are based on Multiple Choice Questions. The examiner can also edit, update, and delete the questions. The Examiner can also add the weightage for every question and also upload any image of the question for Diagram Based Questions.
 
 ## 4. Examiner Creating A New Exam:
 
 ![newTest](https://github.com/princegupta0701/Online-Examination-System-MERN-Stack/assets/156581169/b2f06c84-f86d-40b1-9251-4bf0ad454349)
 
-### New Exam: This module helps the Examiner to Create a New exam. For example: The Type of the exam, The Title of the exam, The course on which the exam will be held, Exam Duration. Examiner can also choose the Questions on Random bases or he can manually choose the questions for a particular set of Exam.
+- **New Exam:** This module helps the Examiner to Create a New exam. For example: The Type of the exam, The Title of the exam, The course on which the exam will be held, Exam Duration. Examiner can also choose the Questions on Random bases or he can manually choose the questions for a particular set of Exam.
 
-### All Exams: This module helps the examinee to view the List of Exams and also delete the exam from the database.
+- **All Exams:** This module helps the examinee to view the List of Exams and also delete the exam from the database.
 
-### Conduct Exam: Examiner can conduct a already prepared set of Exam again and again using the ExamID.
+- **Conduct Exam:** Examiner can conduct a already prepared set of Exam again and again using the ExamID.
 
 ## 5. Examinee Registration Form For The Exam:
 
 ![examRegister](https://github.com/princegupta0701/Online-Examination-System-MERN-Stack/assets/156581169/74287929-1dfd-4191-86ad-eeddd10ebf57)
 
-### Registration: All the Examinee can Register Themselves using there credentials for the Exam. After successfully Registering Themselves all the examinee will recieve there Exam Link On there Provided E-Mail Address. 
+- **Registration:** All the Examinee can Register Themselves using there credentials for the Exam. After successfully Registering Themselves all the examinee will recieve there Exam Link On there Provided E-Mail Address. 
 
 ## 6. Exam Portal With MCQs and Exam Timer Support:
 
 ![testPortal](https://github.com/princegupta0701/Online-Examination-System-MERN-Stack/assets/156581169/023f1060-54e6-419e-b57d-a02b08a3bf46)
 
-### Take Exam: Examinee can appear for the exam and complete it within the given time sequence. Examinee can also mark or flag the questions so that he can go back and look it over again later. After Completing the exam the examinee has to click on the submit button to submit the exam.
+- **Take Exam:** Examinee can appear for the exam and complete it within the given time sequence. Examinee can also mark or flag the questions so that he can go back and look it over again later. After Completing the exam the examinee has to click on the submit button to submit the exam.
 
 ## 7. Examinee Detailed Results and Analytics Panel:
 
 ![results](https://github.com/princegupta0701/Online-Examination-System-MERN-Stack/assets/156581169/aed86c5f-0950-412c-9245-b373595a41ed)
 
-### View their Results: This module helps the Examinee to view there result in which they have appeared as well as check the proper explanation for the answers and check the correct answers.
+- **View their Results:** This module helps the Examinee to view there result in which they have appeared as well as check the proper explanation for the answers and check the correct answers.
 
-### Send Feedback: This module helps the examinee to send feedback to the examiner like how was the exam, or any suggestions to improve the system in future for better experience.
+- **Send Feedback:** This module helps the examinee to send feedback to the examiner like how was the exam, or any suggestions to improve the system in future for better experience.
 
 ## 8. Exam Statistics Page With Proper Graphs:
 
 ![stats](https://github.com/princegupta0701/Online-Examination-System-MERN-Stack/assets/156581169/3aa2da6b-d03d-4113-b028-80a81d39126c)
 
-### View Examinee Results: This module helps the Examinee to check the results of the appeared Candidate with proper pass/fail ratio and also the achieved percentage of Candidates with proper Graphs.
+- **View Examinee Results:** This module helps the Examinee to check the results of the appeared Candidate with proper pass/fail ratio and also the achieved percentage of Candidates with proper Graphs.
 
-### Download Test Result: Examinee can also Download The Exam Result Excel Sheet.
+- **Download Test Result:** Examinee can also Download The Exam Result Excel Sheet.
 
 ## 9. LocalHost MongoDb Image:
 
 ![db](https://github.com/princegupta0701/Online-Examination-System-MERN-Stack/assets/156581169/9a05df77-653e-4b77-b9b7-3f743d0c098a)
 
-### Database: All The Important Credentials and Data of the users are stored in a secured database with proper Password Hashing Methods to help prevent UnAuthorised person from getting access to any passwords.
+- **Database:** All The Important Credentials and Data of the users are stored in a secured database with proper Password Hashing Methods to help prevent UnAuthorised person from getting access to any passwords.
 
 # Feedback Regarding This Project 😇
 
