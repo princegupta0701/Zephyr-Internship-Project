@@ -2,11 +2,21 @@
 
 # TOPIC:- Online Examination Application (Using MERN Stack)
 
-The Online Examination Application is a comprehensive web-based platform designed to facilitate the seamless administration, delivery, and management of online exams.
+## The Online Examination Application is a comprehensive web-based platform designed to facilitate the seamless administration, delivery, and management of online exams.
 
-This application which has been made using MERN stack (MongoDB, Express.js, React and Node.js) aims at providing an educational institutions, corporate training programs and certification authorities with an efficient, scalable and user-friendly.
+## This application which has been made using MERN stack (MongoDB, Express.js, React and Node.js) aims at providing an educational institutions, corporate training programs and certification authorities with an efficient, scalable and user-friendly Experience.
 
-The purpose is to offer a seamless experience to both the examiner and examinee by ensuring that exams are conducted effectively, securely with minimal administrative overheads.
+## The purpose is to offer a seamless experience to both the examiner and examinee by ensuring that exams are conducted effectively, securely with minimal administrative overheads.
+
+# Key Features:-
+
+    1. User management
+    2. Modular code
+    3. Permission management
+    4. Persistent answers on page refresh in the test portal
+    5. Examination results using graphs
+    6. Results can directly be downloaded as excel sheet
+    7. Feedback system
 
 # Tech Stack Used:-
 
@@ -26,31 +36,21 @@ The purpose is to offer a seamless experience to both the examiner and examinee 
 
 -  Ant Design
 
-# Key Features:-
-
-    1. User management
-    2. Modular code
-    3. Permission management
-    4. Persistent answers on page refresh in the test portal
-    5. Examination results using graphs
-    6. Results can directly be downloaded as excel sheet
-    7. Feedback system
-
 # Steps to Run This Project Locally:-
 
 ## Install this project with npm For Backend
 
-Clone the Project
+### Clone the Project
 
 ```bash
   git clone https://github.com/zephyr-internships-23a/zephyr-project-23a21.git
 ```
-Go to the project directory
+### Go to the project directory
  
 ```bash
   cd zephyr-project-23a21/Backend
 ```
-Install dependencies
+### Install dependencies
   
 ```bash  
   npm install
@@ -58,19 +58,19 @@ Install dependencies
 
 ## Install this project with npm For Frontend
 
-Go to the project directory
+### Go to the project directory
 
 ```bash
   cd zephyr-project-23a21/Frontend
 ```
 
-Install dependencies
+### Install dependencies
 
 ```bash
   npm install
 ```
 
-Start the server
+### Start the server
 
 ```bash
   npm start
@@ -154,7 +154,7 @@ Start the server
 
 ## 8. Exam Statistics Page With Proper Graphs:
 
-![stats](https://github.com/princegupta0701/Online-Examination-System-MERN-Stack/assets/156581169/3aa2da6b-d03d-4113-b028-80a81d39126c
+![stats](https://github.com/princegupta0701/Online-Examination-System-MERN-Stack/assets/156581169/3aa2da6b-d03d-4113-b028-80a81d39126c)
 
 ### View Examinee Results: This module helps the Examinee to check the results of the appeared Candidate with proper pass/fail ratio and also the achieved percentage of Candidates with proper Graphs.
 
