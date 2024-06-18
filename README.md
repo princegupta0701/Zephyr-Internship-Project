@@ -2,11 +2,11 @@
 
 # TOPIC:- Online Examination Application (Using MERN Stack)
 
-## The Online Examination Application is a comprehensive web-based platform designed to facilitate the seamless administration, delivery, and management of online exams.
+**The Online Examination Application is a comprehensive web-based platform designed to facilitate the seamless administration, delivery, and management of online exams.**
 
-## This application which has been made using MERN stack (MongoDB, Express.js, React and Node.js) aims at providing an educational institutions, corporate training programs and certification authorities with an efficient, scalable and user-friendly Experience.
+**This application which has been made using MERN stack (MongoDB, Express.js, React and Node.js) aims at providing an educational institutions, corporate training programs and certification authorities with an efficient, scalable and user-friendly Experience.**
 
-## The purpose is to offer a seamless experience to both the examiner and examinee by ensuring that exams are conducted effectively, securely with minimal administrative overheads.
+**The purpose is to offer a seamless experience to both the examiner and examinee by ensuring that exams are conducted effectively, securely with minimal administrative overheads.**
 
 # Key Features:-
 
@@ -106,15 +106,15 @@
 
 ![login](https://github.com/princegupta0701/Online-Examination-System-MERN-Stack/assets/156581169/f459e4ea-766f-4818-b2d7-8e715f19ce47)
 
-### Login: In this module, The admin and the examiner is granted access to the system on providing a valid  credential.
+- **Login:** In this module, The admin and the examiner is granted access to the system on providing a valid  credential.
 
 ## 2. Admin Adding New Examiner and Courses:
 
 ![Trainers](https://github.com/princegupta0701/Online-Examination-System-MERN-Stack/assets/156581169/31182280-69c6-4a4c-8ed2-5ea349da0a9c)
 
-### All Examiner: This Module Lets admin to Add new or view, update the list of Examiner.
+- **All Examiner:** This Module Lets admin to Add new or view, update the list of Examiner.
 
-### All Courses: This module helps the admin in managing the Courses. The admin can add new Courses or delete Courses that are not required for the Exams.
+- **All Courses:** This module helps the admin in managing the Courses. The admin can add new Courses or delete Courses that are not required for the Exams.
 
 ## 3. Examiner Panel for Question Management:
 
