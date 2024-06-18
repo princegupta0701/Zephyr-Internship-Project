@@ -30,7 +30,7 @@ The Online Examination Application is a comprehensive platform designed to facil
 Clone the Project
 
 ```bash
-	git clone https://github.com/zephyr-internships-23a/zephyr-project-23a21.git
+  git clone https://github.com/zephyr-internships-23a/zephyr-project-23a21.git
 ```
 Go to the project directory
  
