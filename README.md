@@ -30,12 +30,12 @@ The Online Examination Application is a comprehensive platform designed to facil
 Clone the Project
 
 ```bash
-	git clone <The Github Repository Link>
+	git clone https://github.com/zephyr-internships-23a/zephyr-project-23a21.git
 ```
 Go to the project directory
  
 ```bash
-  cd Cloned Directory/Backend
+  cd zephyr-project-23a21/Backend
 ```
 Install dependencies
   
@@ -48,7 +48,7 @@ Install dependencies
 Go to the project directory
 
 ```bash
-  cd Cloned Directory/Frontend
+  cd zephyr-project-23a21/Frontend
 ```
 
 Install dependencies
@@ -127,4 +127,4 @@ Start the server
 
 # Feedback Regarding This Project 😇
 
-## If you have any feedback, please reach out to Me at mailto:royp13247@gmail.com
+## If you have any feedback or Query Related To This Project, Please reach out to Me at mailto:royp13247@gmail.com
