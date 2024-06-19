@@ -166,6 +166,20 @@
 
 - **Database:** All The Important Credentials and Data of the users are stored in a secured database with proper Password Hashing Methods to help prevent UnAuthorised person from getting access to any passwords.
 
+# FUTURE SCOPE:
+
+** Steady improvement in innovation has prompted a fast development of the evaluation business. Large numbers of the training organizations and colleges are building up their interest in web tests through online examination application for their understudies rather than pen and paper­based test. It demonstrates that online examination application software is the future of evaluation techniques. I have made an online examination framework, and we will be dealing with it in the future and will make a great deal of improvement like-
+
+- **Adding the screen-sharing & live camera feature to enhance the security and prevent any kind of suspicious activities.**
+
+- **Voice acknowledgment.**
+
+- **Implementation on cloud based Database server.**
+
+- **Fingerprint validation.**
+
+- **Facial recognition acknowledgment.**
+
 # Feedback Regarding This Project 😇
 
 ## If you have any feedback or Query Related To This Project, Please reach out to Me at mailto:royp13247@gmail.com
